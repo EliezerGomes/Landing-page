@@ -1,0 +1,1 @@
+O projeto em questão trata-se de uma landing page de um bot do discord, onde é trabalhado alguns componentes de HTML e a estilização com CSS.
